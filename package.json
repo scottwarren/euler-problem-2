@@ -1,0 +1,11 @@
+{
+  "name": "round2",
+  "main": "index.js",
+  "author": "Scott Warren",
+  "scripts": {
+    "test": "mocha ./tests.js"
+  },
+  "devDependencies": {
+    "mocha": "^5.2.0"
+  }
+}
